@@ -57,6 +57,6 @@ This application utilizes the following APIs:
     OpenWeather API: https://openweathermap.org/api
     Geo Cities RapidAPI: https://rapidapi.com/wirefreethought/api/geodb-cities/
 
-Usage
+## Usage
 
 To use the application, simply type in the name of the location you want to check the weather for in the search bar. The application will retrieve the current weather data for that location and display it on the screen without clicking the enter.
